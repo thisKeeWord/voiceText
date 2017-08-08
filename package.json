@@ -1,0 +1,13 @@
+{
+  "name": "Voice-Text",
+  "version": "1.0.0",
+  "description": "Transcribe your speech",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  }
+}
